@@ -1,0 +1,10 @@
+# Do not edit manually
+# Language detection rules
+# Exclude build artifacts
+**/*.py linguist-detectable
+go.sum linguist-generated
+public/index.html linguist-vendored
+*.py linguist-detectable
+*.htm linguist-vendored
+*.woff2 binary  
+# eof 6cf9193b
